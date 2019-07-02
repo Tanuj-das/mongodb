@@ -38,7 +38,7 @@ public class App {
 			document.put("createdDate", new Date());
 			table.insert(document);
 
-			/**** Find and display ****/
+			/**** Find and display tanuj ****/
 			BasicDBObject searchQuery = new BasicDBObject();
 			searchQuery.put("name", "mkyong");
 
