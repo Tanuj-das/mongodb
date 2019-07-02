@@ -26,7 +26,7 @@ public class App {
 			// if database doesn't exists, MongoDB will create it for you
 			DB db = mongo.getDB("testdb");
 
-			/**** Get collection / table from 'testdb' ****/
+			/**** Get collection / table from 'testdb tanuj' ****/
 			// if collection doesn't exists, MongoDB will create it for you
 			DBCollection table = db.getCollection("user");
 
