@@ -18,7 +18,7 @@ public class App {
 
 		try {
 
-			/**** Connect to MongoDB ****/
+			/**** Connect to MongoDB **** scbc cjxc cjc /
 			// Since 2.10.0, uses MongoClient
 			MongoClient mongo = new MongoClient("localhost", 27017);
 
