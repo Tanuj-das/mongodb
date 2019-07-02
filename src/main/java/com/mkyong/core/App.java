@@ -30,7 +30,7 @@ public class App {
 			// if collection doesn't exists, MongoDB will create it for you
 			DBCollection table = db.getCollection("user");
 
-			/**** Insert ****/
+			/**** Insert meeeeee ****/
 			// create a document to store key and value
 			BasicDBObject document = new BasicDBObject();
 			document.put("name", "mkyong");
