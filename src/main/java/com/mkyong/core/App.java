@@ -10,7 +10,7 @@ import com.mongodb.MongoClient;
 import com.mongodb.MongoException;
 
 /**
- * Java + MongoDB Hello world Example
+ * Java + MongoDB Hello world Example ejxxjioxjx
  * 
  */
 public class App {
